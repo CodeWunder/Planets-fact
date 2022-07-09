@@ -759,7 +759,9 @@ body ul {
         grid-template-columns: 1fr 1fr;
     -webkit-column-gap: 4.3125rem;
             column-gap: 4.3125rem;
-        grid-template-areas: 'title details' 'article details' 'citation details';
+        grid-template-areas: 'title details'
+ 'article details'
+ 'citation details';
     text-align: left;
   }
 }
